@@ -1,0 +1,60 @@
+Descrição da vaga
+Desenvolver código através da documentação dos requisitos; Enteder o problema do cliente e propor soluções; Ser participativo, dar opnião de forma construtiva; Participar de reuniões do projeto; Espirito de melhoria continua (processo, produto, equipe e pessoal); Seguir e respeitar o planejamento dos projetos; Corrigir defeitos; Executar testes; Automatizar (unitários, TDD); Estar em sintonia aos interesses dos projetos e empresa; Seguir e respeitar as politicas e processos da empresa; Ser um profissional com perfil T (conhecimento profundo em PHP e angular 2, porém desejavel no minimo abertura para conhecer outras áreas de conhecimento).
+
+Competências Técnicas/Requisitos:
+Inglês técnico;
+
+Conhecimentos e experiência em PHP 7.0;
+
+Desenvolvimento Ágil - Scrum e Kanban;
+
+Soluções e definições de arquitetura;
+
+Desejável conhecimento – Git, Symfony2 e Doctrine
+
+Experiência com banco de dados;
+
+Experiência com webservices REST/SOAP
+
+Desenvolvimento de testes automatizados.
+
+
+Contratação full CLT + Benefícios.
+
+Seus resultados
+Critérios fornecidos pelo anunciante da vaga Saiba mais sobre o quanto seu perfil se encaixa com os requisitos da vaga.
+Competências
+Nenhum resultado
+Inglês
+Nenhum resultado
+PHP
+Nenhum resultado
+AngularJS
+Nenhum resultado
+Symfony Framework
+Nenhum resultado
+Kanban
+Nenhum resultado
+Banco de dados
+Nenhum resultado
+Serviços web
+Nenhum resultado
+Git
+Nenhum resultado
+Testes
+Nenhum resultado
+DOS
+Anos de experiência
+Nenhum resultado
+3 - 10 anos
+Detalhes da vaga
+Nível de experiência
+Pleno-sênior
+
+Setor
+Tecnologia da informação e serviços Consultoria de gerenciamento Software
+Tipo de emprego
+Tempo integral
+
+Funções de trabalho
+Tecnologia da informação Analista

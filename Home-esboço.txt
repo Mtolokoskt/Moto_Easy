@@ -1,0 +1,34 @@
+Topo = "Moto Easy"   Motoqueiro - Passageiro                          Entrar  (Figura menu ( Quem somos, Para Motoqueiro, Para Passageiro, Contato ))
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+                                                                         (Carousel)
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+				Motoqueiro									Passageiro
+		    Ficará responsavel de transitar com                                                  Será levado para o destino
+		         o cliente ate o destino.                                                     informado no cadastro da corrida.
+
+			      (BUUUTAAAAAAO)								      (BUUUTAAAAAAO)	

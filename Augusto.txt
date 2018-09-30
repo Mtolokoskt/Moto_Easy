@@ -1,0 +1,21 @@
+Telas - (Home, quem somos, para motoqueiro,para passageiro, contato, login, validação, tela passageiro, tela motoqueiro)
+
+
+
+Home - 		Fotos 1 - Modelo como o celular na mão (foto de baixo para cima) texto resumindo.
+		Foto 2 - Moto com o rapaz e capacete na redinha (rapaz a direita e fundo simbolizando movimento) texto resumindo
+		foto 3 - Moto com o rapaz com a caixa (rapaz a esquerda e fundo simbolizando movimento) texto resumindo
+
+
+
+Quem somos - loucos!.        - Explicar como chegamos a ideia, quem estamos ajudando, visão geral do funcionamento.
+
+
+
+
+
+Para motoqueiros           - Explicar sobre o sistema para motoqueiros, beneficios, taxas e como funciona a mensalidade..
+
+
+Para passageiros           - Explicar sobre o sistema,facilidade para pedir, segurança..
+
